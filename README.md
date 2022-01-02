@@ -1,4 +1,4 @@
-https://www.codewars.com/users/max-makk/badges/large
+<img src='https://www.codewars.com/users/max-makk/badges/large' />
 
 <!---
 max-makk/max-makk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
