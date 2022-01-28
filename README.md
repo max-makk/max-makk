@@ -1,3 +1,5 @@
+хай :wave:
+
 <img src='https://www.codewars.com/users/max-makk/badges/large' />
 
 <!---
